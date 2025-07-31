@@ -1,0 +1,34 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 90px;
+    background-color: rgb(228, 205, 250);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}.col{
+    height: 100px;
+    width: 100px;
+    border: 6px solid rgb(135, 88, 179);
+    border-radius: 9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: rgb(72, 21, 84);
+    cursor: pointer;
+}
+.row{
+    display: flex;
+    margin: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.monkier{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: rgb(49, 15, 81);
+}
